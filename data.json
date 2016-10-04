@@ -1,16 +1,16 @@
 var data = [
 	{
-		"nama": "Amelia",
+		"nama": "Bima",
 		"hobi": "membaca",
 		"umur": "20",
 	},
 	{
-		"nama": "Faizal",
+		"nama": "Dika",
 		"hobi": "main game",
 		"umur": "19",
 	},
 	{
-		"nama": "Clara",
+		"nama": "Dede",
 		"hobi": "berenang",
 		"umur": "18",
 	}
